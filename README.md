@@ -3,7 +3,7 @@
 This repository contains 53 lessons to learn C++ step by step.  
 Each lesson is in a separate folder with its code and a README explaining the main idea.
 This is the third course in the roadmap for general programming fundamentals.
-For the esteemed **Dr. Mohammed Abu-Hadhoud**, the YouTube channel link is here 👉 [YouTube channel](https://www.youtube.com/@ProgrammingAdvices).
+For the esteemed **Dr. Mohammed Abu-Hadhoud**, the YouTube channel link is here 👉 [ProgrammingAdvices](https://www.youtube.com/@ProgrammingAdvices).
 
 All lessons were learned under the guidance of **Dr. Mohammed Abu-Hadhoud**.  
 You can find the course on YouTube here: [3- Introduction to Programming Using C++](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy)
